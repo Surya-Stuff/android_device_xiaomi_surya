@@ -337,7 +337,8 @@ PRODUCT_PACKAGES += \
     KarnaPowerProfile \
     KarnaSettingsProviderOverlay \
     SuryaPowerProfile \
-    SuryaSettingsProviderOverlay
+    SuryaSettingsProviderOverlay \
+    NotchBarKillerSurya
 
 # Partitions
 PRODUCT_USE_DYNAMIC_PARTITIONS := true
