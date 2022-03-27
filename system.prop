@@ -10,6 +10,10 @@ ro.charger.enable_suspend=true
 # Dex2oat
 dalvik.vm.dex2oat64.enabled=true
 
+# IO Prefetcher
+vendor.iop.enable_prefetch_ofr=1
+vendor.iop.enable_uxe=1
+
 # Media
 media.aac_51_output_enabled=true
 media.stagefright.enable-aac=true
