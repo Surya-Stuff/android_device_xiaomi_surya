@@ -14,6 +14,11 @@
 # limitations under the License.
 #
 
+# Broken rules
+SELINUX_IGNORE_NEVERALLOWS := true
+BUILD_BROKEN_MISSING_REQUIRED_MODULES := true
+BUILD_BROKEN_ELF_PREBUILT_PRODUCT_COPY_FILES := true
+
 BOARD_VENDOR := xiaomi
 
 DEVICE_PATH := device/xiaomi/surya
