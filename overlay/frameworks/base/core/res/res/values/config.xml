@@ -605,11 +605,11 @@
     </array>
 
     <array name="config_sfps_sensor_props_0" translatable="false">
-        <item></item> <!--item>displayId</item-->
-        <item></item> <!--item>sensorLocationX</item-->
-        <item>920</item> <!--item>sensorLocationY</item-->
-        <item>220</item> <!--item>sensorRadius</item-->
-    </array>
+       <item>local:4630946688386997377</item> <!--item>displayId</item-->
+       <item>1080</item> <!--item>sensorLocationX</item-->
+       <item>910</item> <!--item>sensorLocationY</item-->
+       <item>115</item> <!--item>sensorRadius</item-->
+   </array>
 
     <!-- Minimum color temperature, in Kelvin, supported by Night display. -->
     <integer name="config_nightDisplayColorTemperatureMin">1500</integer>
